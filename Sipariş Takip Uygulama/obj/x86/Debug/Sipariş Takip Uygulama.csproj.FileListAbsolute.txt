@@ -1,0 +1,66 @@
+C:\Users\ailem\Desktop\645\Sipariş Takip Uygulama\Sipariş Takip Uygulama\bin\Debug\Sipariş Takip Uygulama.exe
+C:\Users\ailem\Desktop\645\Sipariş Takip Uygulama\Sipariş Takip Uygulama\bin\Debug\Sipariş Takip Uygulama.pdb
+C:\Users\ailem\Desktop\645\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.Form1.resources
+C:\Users\ailem\Desktop\645\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.Properties.Resources.resources
+C:\Users\ailem\Desktop\645\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.SiparisGuncelle.resources
+C:\Users\ailem\Desktop\645\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.SiparisOlustur.resources
+C:\Users\ailem\Desktop\645\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.csproj.GenerateResource.Cache
+C:\Users\ailem\Desktop\645\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.exe
+C:\Users\ailem\Desktop\645\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.pdb
+C:\Users\ailem\Desktop\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.exe
+C:\Users\ailem\Desktop\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.pdb
+C:\Users\ailem\Desktop\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\bin\Debug\Sipariş Takip Uygulama.exe
+C:\Users\ailem\Desktop\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\bin\Debug\Sipariş Takip Uygulama.pdb
+C:\Users\ailem\Desktop\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.Form1.resources
+C:\Users\ailem\Desktop\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.Properties.Resources.resources
+C:\Users\ailem\Desktop\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.SiparisGuncelle.resources
+C:\Users\ailem\Desktop\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.SiparisOlustur.resources
+C:\Users\ailem\Desktop\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.csproj.GenerateResource.Cache
+C:\Users\ailem\Desktop\MERVE\MERVE 11-C ALAN DERSLERİ\2.DÖNEM BİLİŞİM DERSLERİ\2. DÖNEM NTP\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.exe
+C:\Users\ailem\Desktop\MERVE\MERVE 11-C ALAN DERSLERİ\2.DÖNEM BİLİŞİM DERSLERİ\2. DÖNEM NTP\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.pdb
+C:\Users\ailem\Desktop\MERVE\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.exe
+C:\Users\ailem\Desktop\MERVE\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.pdb
+C:\Users\mevoo\Desktop\MERVE\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\bin\Debug\Sipariş Takip Uygulama.exe
+C:\Users\mevoo\Desktop\MERVE\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\bin\Debug\Sipariş Takip Uygulama.pdb
+C:\Users\mevoo\Desktop\MERVE\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.csproj.AssemblyReference.cache
+C:\Users\mevoo\Desktop\MERVE\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.Form1.resources
+C:\Users\mevoo\Desktop\MERVE\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.Properties.Resources.resources
+C:\Users\mevoo\Desktop\MERVE\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.SiparisGuncelle.resources
+C:\Users\mevoo\Desktop\MERVE\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.SiparisOlustur.resources
+C:\Users\mevoo\Desktop\MERVE\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.csproj.GenerateResource.cache
+C:\Users\mevoo\Desktop\MERVE\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\mevoo\Desktop\MERVE\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.exe
+C:\Users\mevoo\Desktop\MERVE\645_MERVE_ÖNALAN_NTP_PROJE\Sipariş Takip Uygulama\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.pdb
+C:\Users\mevoo\Desktop\Sipariş_Takip\Sipariş Takip Uygulama\bin\Debug\Sipariş Takip Uygulama.exe
+C:\Users\mevoo\Desktop\Sipariş_Takip\Sipariş Takip Uygulama\bin\Debug\Sipariş Takip Uygulama.pdb
+C:\Users\mevoo\Desktop\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.csproj.AssemblyReference.cache
+C:\Users\mevoo\Desktop\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.Form1.resources
+C:\Users\mevoo\Desktop\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.Properties.Resources.resources
+C:\Users\mevoo\Desktop\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.SiparisGuncelle.resources
+C:\Users\mevoo\Desktop\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.SiparisOlustur.resources
+C:\Users\mevoo\Desktop\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.csproj.GenerateResource.cache
+C:\Users\mevoo\Desktop\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\mevoo\Desktop\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.exe
+C:\Users\mevoo\Desktop\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.pdb
+E:\Sipariş_Takip\Sipariş Takip Uygulama\bin\Debug\Sipariş Takip Uygulama.exe
+E:\Sipariş_Takip\Sipariş Takip Uygulama\bin\Debug\Sipariş Takip Uygulama.pdb
+E:\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.csproj.AssemblyReference.cache
+E:\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.Form1.resources
+E:\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.Properties.Resources.resources
+E:\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.SiparisGuncelle.resources
+E:\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.SiparisOlustur.resources
+E:\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.csproj.GenerateResource.cache
+E:\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.csproj.CoreCompileInputs.cache
+E:\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.exe
+E:\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.pdb
+C:\Users\mevoo\Desktop\ÜNİ\Sipariş_Takip\Sipariş Takip Uygulama\bin\Debug\Sipariş Takip Uygulama.exe
+C:\Users\mevoo\Desktop\ÜNİ\Sipariş_Takip\Sipariş Takip Uygulama\bin\Debug\Sipariş Takip Uygulama.pdb
+C:\Users\mevoo\Desktop\ÜNİ\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.csproj.AssemblyReference.cache
+C:\Users\mevoo\Desktop\ÜNİ\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.Form1.resources
+C:\Users\mevoo\Desktop\ÜNİ\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.Properties.Resources.resources
+C:\Users\mevoo\Desktop\ÜNİ\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.SiparisGuncelle.resources
+C:\Users\mevoo\Desktop\ÜNİ\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş_Takip_Uygulama.SiparisOlustur.resources
+C:\Users\mevoo\Desktop\ÜNİ\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.csproj.GenerateResource.cache
+C:\Users\mevoo\Desktop\ÜNİ\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\mevoo\Desktop\ÜNİ\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.exe
+C:\Users\mevoo\Desktop\ÜNİ\Sipariş_Takip\Sipariş Takip Uygulama\obj\x86\Debug\Sipariş Takip Uygulama.pdb
