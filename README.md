@@ -1,6 +1,4 @@
-# Siparis-Takip-Uygulamasi
-
-lisede yapmış olduğum access & c# & ntp uygulaması
+# Siparis-Takip-Uygulamasi(lisede yapmış olduğum access & c# & ntp uygulaması)
 
 ## Sipariş Takip Ana ekran
 
