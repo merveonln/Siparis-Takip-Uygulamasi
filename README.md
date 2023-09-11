@@ -2,14 +2,20 @@
 
 lisede yapmış olduğum access & c# & ntp uygulaması
 
-##Sipariş Takip Ana ekran
+## Sipariş Takip Ana ekran
+
+Seçili siparişleri iptal etme(çoklu seçim de mevcut), siparişleri yenileme, yeni sipariş oluşturma, sipariş güncelleme ve id'ye göre/sipariş adına göre/sipariş veren adına göre/e-postaya göre arama yapan filtre mevcuttur.
 <img src="/siparis_takip.png" alt="Sipariş Takip"><br>
 
-<p>Sipariş Oluşturma Ekranı</p>
+## Sipariş Oluşturma Ekranı
+
 <img src="/siparis_olustur.png" alt="Sipariş Oluşturma"><br>
 
-<p>Sipariş Güncelleme Ekranı</p>
+## Sipariş Güncelleme Ekranı
+
 <img src="/siparis_güncelle.png" alt="Sipariş Güncelleme"><br>
 
-<p>Filreye Göre Sipariş Arama Ekranı</p>
+## Filtreye Göre Sipariş Arama Ekranı
+
 <img src="/siparis_filtre_arama.png" alt="Sipariş Arama">
+"
