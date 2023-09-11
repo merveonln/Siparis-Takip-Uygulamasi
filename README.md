@@ -2,7 +2,7 @@
 
 lisede yapmış olduğum access & c# & ntp uygulaması
 
-<p style="font-weight:bold;">Sipariş Takip Ana ekran</p>
+##Sipariş Takip Ana ekran
 <img src="/siparis_takip.png" alt="Sipariş Takip"><br>
 
 <p>Sipariş Oluşturma Ekranı</p>
