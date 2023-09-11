@@ -1,7 +1,5 @@
 # Siparis-Takip-Uygulamasi
 
-## Lisede yapmış olduğum access & c# & ntp uygulaması
-
 ## Sipariş Takip Ana ekran
 
 Seçili siparişleri iptal etme(çoklu seçim de mevcut), siparişleri yenileme, yeni sipariş oluşturma, sipariş güncelleme ve id'ye göre/sipariş adına göre/sipariş veren adına göre/e-postaya göre arama yapan filtre mevcuttur.
